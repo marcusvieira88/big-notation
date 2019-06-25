@@ -80,7 +80,6 @@ public class BigNotationMain {
         tree.add(20);
         tree.add(30);
         tree.add(40);
-        tree.add(50);
 
         // TreeSet higher method runs in a logarithmic time
         System.out.println(tree.higher(23));
