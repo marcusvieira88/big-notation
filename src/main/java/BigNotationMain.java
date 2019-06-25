@@ -25,11 +25,12 @@ public class BigNotationMain {
         // to that for the <tt>LinkedList</tt> implementation.
 
         List<String> array = new ArrayList<>();
-        array.add("ItemA");
-        array.add("ItemB");
-        array.add("ItemC");
-        array.add("ItemD");
-        array.add("ItemE");
+        array.add("ITEM_A");
+        array.add("ITEM_B");
+        array.add("ITEM_C");
+        array.add("ITEM_D");
+        array.add("ITEM_E");
+        array.add("ITEM_F");
 
         // ArrayList get method runs in a constant time
         System.out.println(array.get(2));
@@ -51,12 +52,12 @@ public class BigNotationMain {
         // the beginning or the end, whichever is closer to the specified index.
 
         List<String> list = new LinkedList<>();
-        list.add("ItemA");
-        list.add("ItemB");
-        list.add("ItemC");
-        list.add("ItemD");
-        list.add("ItemE");
-
+        list.add("ITEM_A");
+        list.add("ITEM_B");
+        list.add("ITEM_C");
+        list.add("ITEM_D");
+        list.add("ITEM_E");
+        list.add("ITEM_F");
         // LinkedList get method runs in a linear time
         System.out.println(list.get(2));
 
