@@ -81,6 +81,6 @@ public class BigNotationMain {
         tree.add(50);
 
         // TreeSet higher method runs in a logarithmic time
-        System.out.println(tree.higher(2));
+        System.out.println(tree.higher(23));
     }
 }
