@@ -67,7 +67,7 @@ public class BigNotationMain {
             System.out.println("Checking item = " + i);
         }
 
-        // Collection LinkedList example
+        // Collection TreeSet example
         //
         // TreeSet JavaDoc
         // <p>This implementation provides guaranteed log(n) time cost for the basic
