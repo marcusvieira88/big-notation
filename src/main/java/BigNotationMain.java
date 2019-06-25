@@ -58,6 +58,7 @@ public class BigNotationMain {
         list.add("ITEM_D");
         list.add("ITEM_E");
         list.add("ITEM_F");
+        
         // LinkedList get method runs in a linear time
         System.out.println(list.get(2));
 
